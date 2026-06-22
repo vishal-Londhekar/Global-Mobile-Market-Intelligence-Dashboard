@@ -347,24 +347,15 @@ This page answers the Strategy Team's question: *"How does each brand's value pr
 > *Market share by brand, RAM distribution, camera spec analysis*
 
 ### Price Analysis Page
-![Price Analysis]
-(<img width="1063" height="617" alt="image" src="https://github.com/user-attachments/assets/51d24a65-32bb-41ea-b206-211318b4b326" />
-
-)
+(<img width="1063" height="617" alt="image" src="https://github.com/user-attachments/assets/51d24a65-32bb-41ea-b206-211318b4b326" />)
 > *Multi-currency average pricing by brand and model*
 
 ### Features vs Price Page
-![Features vs Price]
-(<img width="1063" height="613" alt="image" src="https://github.com/user-attachments/assets/4ab93e47-2834-4aaa-a62d-3d50c415a619" />
-
-)
+(<img width="1063" height="613" alt="image" src="https://github.com/user-attachments/assets/4ab93e47-2834-4aaa-a62d-3d50c415a619" />)
 > *Interactive spec comparison with RAM and price range slicers*
 
 ### Matrix Visuals Page
-![Matrix Visuals]
-(<img width="1066" height="610" alt="image" src="https://github.com/user-attachments/assets/80cd85dd-d4f9-429c-969b-7b9988f4290d" />
-
-)
+(<img width="1066" height="610" alt="image" src="https://github.com/user-attachments/assets/80cd85dd-d4f9-429c-969b-7b9988f4290d" />)
 > *Brand-level benchmarking: Average Price, RAM, and Device Weight*
 
 ---
