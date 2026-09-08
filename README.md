@@ -1,5 +1,7 @@
 # Global Mobile Market Intelligence Dashboard
 
+> **Data Analyst & Business Intelligence Analyst portfolio project**
+
 A Power BI portfolio project for exploring historical smartphone pricing, specifications, and brand positioning.
 
 ## Overview
@@ -39,7 +41,17 @@ Power BI Desktop, Power Query, DAX, Excel, star-schema modelling, slicers, and c
 3. Use the page tabs and slicers to explore the analysis.
 4. Open **Mobile Project.pdf** if you only need a static preview.
 
-## Limitations
+## Analyst value
+
+> **Portfolio focus:** Business Intelligence · Pricing Analytics · Product Analytics · Decision Support
+
+**Stakeholder lens:** Product managers, pricing teams, market researchers, and brand strategists.
+
+**Skills demonstrated:** Data preparation, star-schema modelling, DAX, KPI design, segmentation, anomaly analysis, interactive dashboarding, and business storytelling.
+
+**Decision support:** Helps teams compare product portfolios, test pricing hypotheses, identify specification gaps, and frame roadmap discussions with evidence.
+
+## $1
 
 - The analysis uses a static dataset and is not connected to a live market feed.
 - Currency fields should be interpreted using the source dataset's definitions; this project does not provide a live exchange-rate conversion layer.
