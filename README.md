@@ -41,6 +41,21 @@ Power BI Desktop, Power Query, DAX, Excel, star-schema modelling, slicers, and c
 3. Use the page tabs and slicers to explore the analysis.
 4. Open **Mobile Project.pdf** if you only need a static preview.
 
+
+## Business problem and decision
+
+### Business problem
+Product and pricing teams need a consistent way to compare smartphone portfolios across brands, specifications, price tiers, and markets. When this information is spread across raw files and manual comparisons, teams can miss pricing gaps, feature trends, and competitive positioning risks.
+
+### Analyst question
+Which brands, specifications, and price segments show meaningful differences, outliers, or opportunities for deeper investigation?
+
+### Decision supported
+A product or pricing stakeholder can use the analysis to prioritise competitive reviews, test pricing hypotheses, identify portfolio gaps, and frame product-roadmap discussions.
+
+### Potential success measure
+A successful implementation should reduce the time required to answer recurring benchmark questions and make the comparison logic consistent across brands and markets.
+
 ## Analyst value
 
 > **Portfolio focus:** Business Intelligence · Pricing Analytics · Product Analytics · Decision Support
