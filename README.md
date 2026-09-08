@@ -51,7 +51,7 @@ Power BI Desktop, Power Query, DAX, Excel, star-schema modelling, slicers, and c
 
 **Decision support:** Helps teams compare product portfolios, test pricing hypotheses, identify specification gaps, and frame roadmap discussions with evidence.
 
-## $1
+## Limitations
 
 - The analysis uses a static dataset and is not connected to a live market feed.
 - Currency fields should be interpreted using the source dataset's definitions; this project does not provide a live exchange-rate conversion layer.
